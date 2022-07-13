@@ -1,0 +1,30 @@
+@media (min-width: 0) and (max-width: 576px) {
+.header {
+     padding: 5px;
+}
+.logo{
+    margin-bottom: 150px;
+}
+.container{
+    background-size: auto;
+}
+.about{
+    
+    text-align: right;
+    padding: 0;
+}
+.start{
+    justify-content: end;
+}
+.about__img{
+    width: 200px;
+    height: 200px;
+}
+.priselist{
+justify-content: end;}
+.priselist__div{
+    font-size: 16px;
+    flex-wrap: wrap;
+    text-align: right;
+}
+}
